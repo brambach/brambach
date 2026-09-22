@@ -13,7 +13,6 @@ During the day I build integrations and client portals at [Digital Directions](h
 
 ### Other things I've made
 
-- **[thread](https://github.com/brambach/thread)**: a research project asking whether a model can keep track of what you're working on from your email, calendar and messages, with no upkeep from you.
 - **[trace](https://github.com/brambach/trace)**: watches your local Claude Code sessions, makes every prompt searchable and shows how your prompting changes over time.
 - **[port](https://github.com/brambach/port)**: an iOS ritual for putting your phone down at night.
 - **[arro](https://github.com/brambach/arro)**: a private running-streak app for families.
