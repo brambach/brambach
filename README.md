@@ -1,15 +1,15 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Bryce Rambach. San Francisco, building Dervo." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Bryce Rambach. I design software, then build it myself." src="assets/banner-light.png" width="100%">
 </picture>
 
-Hey, I'm Bryce. I'm building [Dervo](https://trydervo.com).
+Hey, I'm Bryce. I built [Dervo](https://github.com/brambach/dervo), and it's now open for anyone to read and run.
 
-Dervo runs Claude Code and Codex in your projects on your Mac, under your own logins. You type a request and it goes to the right thread. When you come back, Catch up tells you what needs you, what's still running and what finished or stopped. It writes that from the record of each run, not from the agent's account of itself. The code is public on [GitHub](https://github.com/brambach/dervo), source-available under FSL, and it becomes Apache 2.0 after two years. The Mac app is the most complete. Windows and Linux builds exist but are newer.
+Dervo runs Claude Code and Codex in your projects on your Mac, under your own logins. You type a request and it goes to the right thread. When you come back, Catch up tells you what needs you, what's still running and what finished or stopped. It writes that from the record of each run, not from the agent's account of itself. The code is public on [GitHub](https://github.com/brambach/dervo), source-available under FSL, and it becomes Apache 2.0 after two years. The Mac app is the most complete. Windows and Linux builds exist but are newer, and I'm not actively developing it anymore.
 
-<a href="https://trydervo.com"><img alt="trydervo.com: Run your coding agents. See the whole picture." src="assets/dervo.jpg" width="100%"></a>
+<a href="https://github.com/brambach/dervo"><img alt="Dervo: Run your coding agents. See the whole picture. Source on GitHub." src="assets/dervo.jpg" width="100%"></a>
 
-[Source on GitHub](https://github.com/brambach/dervo) · [Join the waitlist](https://trydervo.com/#waitlist) · [Discord](https://discord.gg/yQgtV69TYX)
+[Source on GitHub](https://github.com/brambach/dervo) · [trydervo.com](https://trydervo.com)
 
 During the day I build integrations and client portals at [Digital Directions](https://digitaldirections.io). I care a lot about how software feels, and I'm just as happy down in the backend making it work.
 
