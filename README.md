@@ -3,7 +3,7 @@
   <img alt="Bryce Rambach. I design software, then build it myself." src="assets/banner-light.png" width="100%">
 </picture>
 
-Hey, I'm Bryce. I graduated from SDSU in May 2026 with a CS degree. I build agent tooling and care a lot about how software feels. Right now I'm looking at founding or product engineer roles at early-stage AI startups in SF.
+Hey, I'm Bryce. I graduated from SDSU in May 2026 with a CS degree. I build agent tooling and care a lot about how software feels. Right now I'm looking at founding or product engineer roles at early-stage AI startups in SF or NYC.
 
 ### What I'm building
 
