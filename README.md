@@ -9,11 +9,11 @@ My [site](https://brycerambach.com) is a pumpkin patch until Halloween is over, 
 <a href="https://brycerambach.com/projects/dervo"><img alt="Dervo, a Mac app that runs Claude Code and Codex in your projects, then tells you where they left off. Stopped October 2026." src="assets/patch/dervo.png" width="100%"></a>
 
 <p>
-  <a href="https://trace-rust-three.vercel.app"><img alt="Trace, a local tool that finds the corrections you keep repeating to your coding agent and writes them into CLAUDE.md." src="assets/patch/trace.png" width="49%"></a>
-  <a href="https://easeprint.vercel.app"><img alt="easeprint, a Chrome extension that reads how any site moves and copies the motion into your code." src="assets/patch/easeprint.png" width="49%"></a>
+  <a href="https://trace.brycerambach.com"><img alt="Trace, a local tool that finds the corrections you keep repeating to your coding agent and writes them into CLAUDE.md." src="assets/patch/trace.png" width="49%"></a>
+  <a href="https://easeprint.brycerambach.com"><img alt="easeprint, a Chrome extension that reads how any site moves and copies the motion into your code." src="assets/patch/easeprint.png" width="49%"></a>
 </p>
 <p>
-  <a href="https://dryline-ten.vercel.app"><img alt="dryline, a surf forecast for Tahoe trails that says which ones are dry today and the day the muddy ones will be." src="assets/patch/dryline.png" width="49%"></a>
+  <a href="https://dryline.brycerambach.com"><img alt="dryline, a surf forecast for Tahoe trails that says which ones are dry today and the day the muddy ones will be." src="assets/patch/dryline.png" width="49%"></a>
   <a href="https://comehome-ochre.vercel.app/p/juniper-demo"><img alt="comehome, a lost pet network for a town, shown with Juniper, a made up dog." src="assets/patch/comehome.png" width="49%"></a>
 </p>
 <p>
@@ -24,9 +24,9 @@ My [site](https://brycerambach.com) is a pumpkin patch until Halloween is over, 
 | | What it is | Try it | Source |
 | --- | --- | --- | --- |
 | **Dervo** | Mac app for running Claude Code and Codex side by side. Stopped in October 2026. | [trydervo.com](https://trydervo.com) | [dervo](https://github.com/brambach/dervo) |
-| **Trace** | Coding coach that turns the corrections you repeat into CLAUDE.md | [live demo](https://trace-rust-three.vercel.app) | [trace](https://github.com/brambach/trace) |
-| **easeprint** | Chrome extension that reads how a site moves | [easeprint.vercel.app](https://easeprint.vercel.app) | [easeprint](https://github.com/brambach/easeprint) |
-| **dryline** | Trail forecast for when the mud dries out | [dryline-ten.vercel.app](https://dryline-ten.vercel.app) | [dryline](https://github.com/brambach/dryline) |
+| **Trace** | Coding coach that turns the corrections you repeat into CLAUDE.md | [trace.brycerambach.com](https://trace.brycerambach.com) | [trace](https://github.com/brambach/trace) |
+| **easeprint** | Chrome extension that reads how a site moves | [easeprint.brycerambach.com](https://easeprint.brycerambach.com) | [easeprint](https://github.com/brambach/easeprint) |
+| **dryline** | Trail forecast for when the mud dries out | [dryline.brycerambach.com](https://dryline.brycerambach.com) | [dryline](https://github.com/brambach/dryline) |
 | **comehome** | Lost pet network for a town | [live demo](https://comehome-ochre.vercel.app/p/juniper-demo) | [comehome](https://github.com/brambach/comehome) |
 | **Arro** | iPhone streak app for families. Reached TestFlight. | | [arro](https://github.com/brambach/arro) |
 | **brycerambach.com** | My portfolio | [brycerambach.com](https://brycerambach.com) | [portfolio-site](https://github.com/brambach/portfolio-site) |
